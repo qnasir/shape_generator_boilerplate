@@ -109,3 +109,15 @@ h1 {
   color: white;
   border: none;
 }
+
+#circle {
+  accent-color: blue;
+}
+
+#square {
+  accent-color: blue;
+}
+
+#rectangle {
+  accent-color: blue;
+}
